@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Header from '../Components/Header'
+import Nav from '../Components/Nav'
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
      <Header/>
+     <Nav/>
      
     </>
   )
