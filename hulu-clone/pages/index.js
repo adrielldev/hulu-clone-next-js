@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import Header from '../Components/Header'
 import Nav from '../Components/Nav'
 import Results from '../Components/Results'
